@@ -1,8 +1,9 @@
-/*This program uses put to print a statement.*/
 #include <stdio.h>
-
+/**
+ *This function uses puts to output a statement
+ */
 int main(void)
 {
-	puts("Programming is like building a multilingual puzzle.\n");
-	return(0);
+	puts("Programming is like building a multilingual puzzle\n");
+	return (0);
 }
