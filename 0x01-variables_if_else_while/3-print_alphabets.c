@@ -1,4 +1,4 @@
-#include <stido>
+#include <stdio.h>
 
 /**
  * main - lower and upper case alphabets
